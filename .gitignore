@@ -1,0 +1,4 @@
+*.pyc
+*.asc
+__init__.py
+
